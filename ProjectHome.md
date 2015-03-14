@@ -1,0 +1,1 @@
+This project is intended to create a robotic personal assistant that integrates into a smart home and can integrate into a robotic platform.
